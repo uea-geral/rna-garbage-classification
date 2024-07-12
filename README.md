@@ -7,7 +7,7 @@
 ## Challenge
 
 Classificate some objects found in domestic garbage using the Kaggle dataset at https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset/.
-The dataset contains 7 distinct classes:
+The dataset contains 6 distinct classes:
 
 - 📦 Cardboard;
 - 🥂 Glass;
